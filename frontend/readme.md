@@ -1,0 +1,1 @@
+<https://speakerdeck.com/smashingmag/dirty-tricks-from-the-dark-corners-of-front-end> Dirty Tricks From The Dark  Corners Of Front-End by Vitaly Friedman
