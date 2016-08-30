@@ -75,4 +75,5 @@ Some links were taken from the article [10 Free JavaScript Books]
 ### Libraries
 
 <https://github.com/jlmakes/scrollreveal.js> Easy Scroll Animations
-<https://github.com/imakewebthings/waypoints> Waypoints a library that makes it easy to execute a function whenever you scroll to an element. 
+<https://github.com/imakewebthings/waypoints> Waypoints a library that makes it easy to execute a function whenever you scroll to an element.
+<https://sachinchoolur.github.io/lightgallery.js/> Full featured javascript lightbox gallery, No dependencies. 
